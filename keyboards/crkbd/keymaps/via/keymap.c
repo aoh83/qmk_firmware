@@ -3,6 +3,10 @@
 
 #define WR_ESC LT(1, KC_ESC)
 #define WR_QUOT LT(1, KC_QUOT)
+
+#define WR_GRV LT(2, KC_GRV)
+#define WR_BSLS LT(2, KC_BSLS)
+
 #define WR_LCTL MT(MOD_LCTL, KC_LEFT)
 #define WR_LALT MT(MOD_LALT, KC_RIGHT)
 #define WR_RCTL MT(MOD_RCTL, KC_UP)
