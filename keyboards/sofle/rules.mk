@@ -1,0 +1,2 @@
+DEFAULT_FOLDER = sofle/rev1
+TAP_DANCE_ENABLE = yes
